@@ -1,4 +1,4 @@
-# vuex-usuarios-api
+# Ejemplo vue3, con jsonplaceholder, users
 
 ## Project setup
 ```
